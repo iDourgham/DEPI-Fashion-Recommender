@@ -1,6 +1,3 @@
-Here's a sample `README.md` file for your GitHub repository, based on the clothes recommendation system project:
-
----
 
 # Clothes Recommendation System using DenseNet121
 
