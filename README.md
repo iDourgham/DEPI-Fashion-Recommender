@@ -5,8 +5,8 @@ Project Overview
 The main goal of this project is to provide a recommendation engine for clothing items based on image similarity. The DenseNet121 model, a deep learning convolutional neural network, is used for extracting deep features from images, which are then compared to suggest similar clothing.
 
 Key Features:
-Image Preprocessing: Clothing images are preprocessed (resized, normalized) to be compatible with the DenseNet121 input layer.
-Feature Extraction: DenseNet121, pre-trained on ImageNet, is used to extract rich visual features from the clothing images.
+*Image Preprocessing: Clothing images are preprocessed (resized, normalized) to be compatible with the DenseNet121 input layer.
+*Feature Extraction: DenseNet121, pre-trained on ImageNet, is used to extract rich visual features from the clothing images.
 Similarity Matching: Cosine similarity is calculated between the extracted features to recommend items visually similar to a given input.
 User Input: Users can upload a clothing item image to receive recommendations for similar items.
 Dataset
