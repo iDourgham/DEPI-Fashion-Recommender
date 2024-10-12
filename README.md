@@ -60,6 +60,5 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Acknowledgments
 
-- Thanks to the [Kaggle notebook](https://www.kaggle.com/code/gulgaishatemerbekova/clothes-recommendation-system-using-densenet121/input) for the inspiration.
 - [Fashion MNIST dataset](https://github.com/zalandoresearch/fashion-mnist) by Zalando Research.
 - Pre-trained model [DenseNet121](https://arxiv.org/abs/1608.06993) from Keras.
